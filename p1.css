@@ -253,7 +253,7 @@
 }
 
 .boxiconface{
-  background-image: url("icface.png");
+  background-image: url("icface.PNG");
   background-size: cover;
   position: relative;
   width: 211.177px;
@@ -405,7 +405,7 @@
   float: left;
   position: relative;
   border-radius: 10px;
-  background-image: url("facebookicon.png");
+  background-image: url("facebookicon.PNG");
   background-size: cover;
 }
 
@@ -767,7 +767,7 @@
   }
 
   .boxiconface{
-    background-image: url("faceresp.png");
+    background-image: url("faceresp.PNG");
     background-size: cover;
     position: relative;
     width: 79px;
