@@ -8,7 +8,7 @@
   overflow: scroll;
 }
 .boxbackground{
-  background: url("imagens/fundo.jpg") center;
+  background: url("fundo.jpg") center;
   background-size: cover;
   width: 100%;
   height: 400px;
@@ -33,7 +33,7 @@
 }
 
 .boxe1{
-  background-image: url("imagens/time1/e1.png");
+  background-image: url("e1.png");
   background-size: cover;
   position: relative;
   width: 97.4px;
@@ -42,7 +42,7 @@
   top: 25.6px
 }
 .boxe2{
-  background-image: url("imagens/time1/e2.png");
+  background-image: url("e2.png");
   background-size: cover;
   position: relative;
   width: 194px;
@@ -51,7 +51,7 @@
   top: -37px
 }
 .boxe3{
-  background-image: url("imagens/time1/e3.png");
+  background-image: url("e3.png");
   background-size: cover;
   position: relative;
   width: 87.3px;
@@ -60,7 +60,7 @@
   top: -50px
 }
 .boxe4{
-  background-image: url("imagens/time1/e4.png");
+  background-image: url("e4.png");
   background-size: cover;
   position: relative;
   width: 121.25px;
@@ -69,7 +69,7 @@
   top: -30px
 }
 .boxe5{
-  background-image: url("imagens/time1/e5.png");
+  background-image: url("e5.png");
   background-size: cover;
   position: relative;
   width: 97px;
@@ -78,7 +78,7 @@
   top: 18px
 }
 .boxe6{
-  background-image: url("imagens/time1/e6.png");
+  background-image: url("e6.png");
   background-size: cover;
   position: relative;
   width: 106.7px;
@@ -87,7 +87,7 @@
   top: 89.2px
 }
 .boxe7{
-  background-image: url("imagens/time1/e7.png");
+  background-image: url("e7.png");
   background-size: cover;
   position: relative;
   width: 145.5px;
@@ -96,7 +96,7 @@
   top: -30px
 }
 .boxe8{
-  background-image: url("imagens/time1/e8.png");
+  background-image: url("e8.png");
   background-size: cover;
   position: relative;
   width: 97px;
@@ -105,7 +105,7 @@
   top: 7.5px
 }
 .boxe9{
-  background-image: url("imagens/time1/e9.png");
+  background-image: url("e9.png");
   background-size: cover;
   position: relative;
   width: 145.5px;
@@ -114,7 +114,7 @@
   top: 17.5px
 }
 .boxe10{
-  background-image: url("imagens/time1/e10.png");
+  background-image: url("e10.png");
   background-size: cover;
   position: relative;
   width: 169.75px;
@@ -123,7 +123,7 @@
   top: 125px
 }
 .boxe11{
-  background-image: url("imagens/time1/e11.png");
+  background-image: url("e11.png");
   background-size: cover;
   position: relative;
   width: 97px;
@@ -144,7 +144,7 @@
 }
 
 .boxicone{
-  background-image: url("imagens/icon.png");
+  background-image: url("icon.png");
   background-size: cover;
   position: relative;
   width: 175px;
@@ -154,7 +154,7 @@
 }
 
 .boxvs{
-  background-image: url("imagens/vs.png");
+  background-image: url("vs.png");
   background-size: cover;
   position: relative;
   width: 77.6px;
@@ -174,7 +174,7 @@
 }
 
 .boxnint{
-  background-image: url("imagens/nintendo.png");
+  background-image: url("nintendo.png");
   background-size: cover;
   position: relative;
   width: 118px;
@@ -253,7 +253,7 @@
 }
 
 .boxiconface{
-  background-image: url("imagens/icface.png");
+  background-image: url("icface.png");
   background-size: cover;
   position: relative;
   width: 211.177px;
@@ -276,7 +276,7 @@
 }
 
 .boxd1{
-  background-image: url("imagens/time2/d1.png");
+  background-image: url("d1.png");
   background-size: cover;
   position: relative;
   width: 160.05px;
@@ -285,7 +285,7 @@
   top: -226px
 }
 .boxd2{
-  background-image: url("imagens/time2/d2.png");
+  background-image: url("d2.png");
   background-size: cover;
   position: relative;
   width: 184.3px;
@@ -294,7 +294,7 @@
   top: 104px
 }
 .boxd3{
-  background-image: url("imagens/time2/d3.png");
+  background-image: url("d3.png");
   background-size: cover;
   position: relative;
   width: 169.75px;
@@ -303,7 +303,7 @@
   top: 10px
 }
 .boxd4{
-  background-image: url("imagens/time2/d4.png");
+  background-image: url("d4.png");
   background-size: cover;
   position: relative;
   width: 106.7px;
@@ -312,7 +312,7 @@
   top: 0px
 }
 .boxd5{
-  background-image: url("imagens/time2/d5.png");
+  background-image: url("d5.png");
   background-size: cover;
   position: relative;
   width: 155.2px;
@@ -321,7 +321,7 @@
   top: 100px
 }
 .boxd6{
-  background-image: url("imagens/time2/d6.png");
+  background-image: url("d6.png");
   background-size: cover;
   position: relative;
   width: 242.5px;
@@ -330,7 +330,7 @@
   top: 89px
 }
 .boxd7{
-  background-image: url("imagens/time2/d7.png");
+  background-image: url("d7.png");
   background-size: cover;
   position: relative;
   width: 111.55px;
@@ -339,7 +339,7 @@
   top: 41px
 }
 .boxd8{
-  background-image: url("imagens/time2/d8.png");
+  background-image: url("d8.png");
   background-size: cover;
   position: relative;
   width: 155.2px;
@@ -348,7 +348,7 @@
   top: -353px
 }
 .boxd9{
-  background-image: url("imagens/time2/d9.png");
+  background-image: url("d9.png");
   background-size: cover;
   position: relative;
   width: 106.7px;
@@ -357,7 +357,7 @@
   top: 66px
 }
 .boxd10{
-  background-image: url("imagens/time2/d10.png");
+  background-image: url("d10.png");
   background-size: cover;
   position: relative;
   width: 97px;
@@ -383,7 +383,7 @@
   float: left;
   position: relative;
   border-radius: 13px;
-  background-image: url("imagens/gif.gif");
+  background-image: url("gif.gif");
   background-size: cover;
 }
 
@@ -394,7 +394,7 @@
   float: left;
   position: relative;
   border-radius: 10px;
-  background-image: url("imagens/feedicon.png");
+  background-image: url("feedicon.png");
   background-size: cover;
 }
 
@@ -405,7 +405,7 @@
   float: left;
   position: relative;
   border-radius: 10px;
-  background-image: url("imagens/facebookicon.png");
+  background-image: url("facebookicon.png");
   background-size: cover;
 }
 
@@ -416,7 +416,7 @@
   float: left;
   position: relative;
   border-radius: 10px;
-  background-image: url("imagens/instagramicon.png");
+  background-image: url("instagramicon.png");
   background-size: cover;
 }
 
@@ -427,7 +427,7 @@
   float: left;
   position: relative;
   border-radius: 10px;
-  background-image: url("imagens/twittericon.png");
+  background-image: url("twittericon.png");
   background-size: cover;
 }
 
@@ -438,7 +438,7 @@
   float: left;
   position: relative;
   border-radius: 10px;
-  background-image: url("imagens/googleplusicon.png");
+  background-image: url("googleplusicon.png");
   background-size: cover;
 }
 
@@ -487,7 +487,7 @@
   width: 100%;
   top: 40px;
   margin: 0px;
-  background-image: url("imagens/impost.png");
+  background-image: url("impost.png");
   background-size: cover;
 }
 
@@ -496,7 +496,7 @@
   width: 28px;
   border-radius: 28px;
   float: left;
-  background-image: url("imagens/perfil.jpg");
+  background-image: url("perfil.jpg");
   background-size: cover;
 }
 
@@ -561,7 +561,7 @@
 @media only screen and (max-width: 600px) {
 
   .boxbackground{
-    background: url("imagens/fundo.jpg") center;
+    background: url("fundo.jpg") center;
     background-size: cover;
     width: 100%;
     height: 250px;
@@ -586,7 +586,7 @@
   }
 
   .boxe1{
-    background-image: url("imagens/time1/e1.png");
+    background-image: url("e1.png");
     background-size: cover;
     position: relative;
     width: 43.8333px;
@@ -595,7 +595,7 @@
     top: 18px
   }
   .boxe2{
-    background-image: url("imagens/time1/e2.png");
+    background-image: url("e2.png");
     background-size: cover;
     position: relative;
     width: 87.6667px;
@@ -604,7 +604,7 @@
     top: -20px
   }
   .boxe3{
-    background-image: url("imagens/time1/e3.png");
+    background-image: url("e3.png");
     background-size: cover;
     position: relative;
     width: 39.45px;
@@ -613,7 +613,7 @@
     top: -14px
   }
   .boxe4{
-    background-image: url("imagens/time1/e4.png");
+    background-image: url("e4.png");
     background-size: cover;
     position: relative;
     width: 54.8px;
@@ -622,7 +622,7 @@
     top: -20px
   }
   .boxe5{
-    background-image: url("imagens/time1/e5.png");
+    background-image: url("e5.png");
     background-size: cover;
     position: relative;
     width: 43.8333px;
@@ -631,7 +631,7 @@
     top: 10px
   }
   .boxe6{
-    background-image: url("imagens/time1/e6.png");
+    background-image: url("e6.png");
     background-size: cover;
     position: relative;
     width: 48.2167px;
@@ -640,7 +640,7 @@
     top: 85px
   }
   .boxe7{
-    background-image: url("imagens/time1/e7.png");
+    background-image: url("e7.png");
     background-size: cover;
     position: relative;
     width: 65.75px;
@@ -649,7 +649,7 @@
     top: -24px;
   }
   .boxe8{
-    background-image: url("imagens/time1/e8.png");
+    background-image: url("e8.png");
     background-size: cover;
     position: relative;
     width: 43.8333px;
@@ -658,7 +658,7 @@
     top: 8px
   }
   .boxe9{
-    background-image: url("imagens/time1/e9.png");
+    background-image: url("e9.png");
     background-size: cover;
     position: relative;
     width: 65.75px;
@@ -667,7 +667,7 @@
     top: 14px
   }
   .boxe10{
-    background-image: url("imagens/time1/e10.png");
+    background-image: url("e10.png");
     background-size: cover;
     position: relative;
     width: 76.7167px;
@@ -676,7 +676,7 @@
     top: 74px;
   }
   .boxe11{
-    background-image: url("imagens/time1/e11.png");
+    background-image: url("e11.png");
     background-size: cover;
     position: relative;
     width: 43.8333px;
@@ -696,7 +696,7 @@
   }
 
   .boxicone{
-    background-image: url("imagens/icon.png");
+    background-image: url("icon.png");
     background-size: cover;
     position: relative;
     width: 78.9px;
@@ -706,7 +706,7 @@
   }
 
   .boxvs{
-    background-image: url("imagens/vs.png");
+    background-image: url("vs.png");
     background-size: cover;
     position: relative;
     width: 35.06px;
@@ -726,7 +726,7 @@
   }
 
   .boxnint{
-    background-image: url("imagens/menu.png");
+    background-image: url("menu.png");
     background-size: cover;
     position: relative;
     width: 32px;
@@ -748,7 +748,7 @@
     height: 40px;
     top:-9px;
     left: 28.3%;
-    background-image: url("imagens/iconresp.png");
+    background-image: url("iconresp.png");
     background-size: cover;
     float: left;
     border-color: white;
@@ -767,7 +767,7 @@
   }
 
   .boxiconface{
-    background-image: url("imagens/faceresp.png");
+    background-image: url("faceresp.png");
     background-size: cover;
     position: relative;
     width: 79px;
@@ -791,7 +791,7 @@
   }
 
   .boxd1{
-    background-image: url("imagens/time2/d1.png");
+    background-image: url("d1.png");
     background-size: cover;
     position: relative;
     width: 72.3333px;
@@ -800,7 +800,7 @@
     top: -115px
   }
   .boxd2{
-    background-image: url("imagens/time2/d2.png");
+    background-image: url("d2.png");
     background-size: cover;
     position: relative;
     width: 83.2834px;
@@ -809,7 +809,7 @@
     top: 56px
   }
   .boxd3{
-    background-image: url("imagens/time2/d3.png");
+    background-image: url("d3.png");
     background-size: cover;
     position: relative;
     width: 76.7166px;
@@ -818,7 +818,7 @@
     top: 11px
   }
   .boxd4{
-    background-image: url("imagens/time2/d4.png");
+    background-image: url("d4.png");
     background-size: cover;
     position: relative;
     width: 48.2167px;
@@ -827,7 +827,7 @@
     top: -2px
   }
   .boxd5{
-    background-image: url("imagens/time2/d5.png");
+    background-image: url("d5.png");
     background-size: cover;
     position: relative;
     width: 70.1333px;
@@ -836,7 +836,7 @@
     top: 52.5px
   }
   .boxd6{
-    background-image: url("imagens/time2/d6.png");
+    background-image: url("d6.png");
     background-size: cover;
     position: relative;
     width: 109.6px;
@@ -845,7 +845,7 @@
     top: 94px
   }
   .boxd7{
-    background-image: url("imagens/time2/d7.png");
+    background-image: url("d7.png");
     background-size: cover;
     position: relative;
     width: 50.4px;
@@ -854,7 +854,7 @@
     top: -1.5px
   }
   .boxd8{
-    background-image: url("imagens/time2/d8.png");
+    background-image: url("d8.png");
     background-size: cover;
     position: relative;
     width: 70.1333px;
@@ -863,7 +863,7 @@
     top: -173px
   }
   .boxd9{
-    background-image: url("imagens/time2/d9.png");
+    background-image: url("d9.png");
     background-size: cover;
     position: relative;
     width: 48.2167px;
@@ -872,7 +872,7 @@
     top: 38px
   }
   .boxd10{
-    background-image: url("imagens/time2/d10.png");
+    background-image: url("d10.png");
     background-size: cover;
     position: relative;
     width: 43.8333px;
@@ -955,7 +955,7 @@
     width: 100%;
     top: 40px;
     margin: 0px;
-    background-image: url("imagens/impost.png");
+    background-image: url("impost.png");
     background-size: cover;
   }
 
@@ -964,7 +964,7 @@
     width: 28px;
     border-radius: 28px;
     float: left;
-    background-image: url("imagens/perfil.jpg");
+    background-image: url("perfil.jpg");
     background-size: cover;
   }
 
